@@ -2,8 +2,6 @@
 
  I'm Anshika
 
- Aspiring Data Analyst | Power BI Developer | VBA Automation Enthusiast  
-
 I am a BSc Life Science graduate transitioning into the data analytics domain, with hands-on experience in **Power BI dashboards**, and **VBA macros**.
 I enjoy transforming raw data into meaningful insights and building visually intuitive dashboards that support decision-making.
 
