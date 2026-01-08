@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**anshika-techy/anshika-techy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Anshika
 
-Here are some ideas to get you started:
+ Aspiring Data Analyst | Power BI Developer | VBA Automation Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a BSc Life Science graduate transitioning into the data analytics domain, with hands-on experience in **Power BI dashboards**, and **VBA macros**.
+I enjoy transforming raw data into meaningful insights and building visually intuitive dashboards that support decision-making.
+
+ # Currently Learning
+- Power BI (DAX, data modeling)
+- VBA
+
+# What I Enjoy
+- Designing clean, user-friendly dashboards
+- Automating repetitive Excel tasks
+- Learning how data drives business decisions
+
+---
+
+**Let’s connect!**  
+Feel free to explore my projects or reach out for collaboration opportunities.
+
+-  Fun fact: ...
+  Dashboards + coffee = productivity.
